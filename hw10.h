@@ -33,7 +33,7 @@ class Sea
     friend ostream & operator <<(ostream & os,Sea & water);
 };
 
-class Penguins
+class Penguin
 {
   private:
     int health;
@@ -41,7 +41,7 @@ class Penguins
     int peng_Y;
     bool alive_or_not;
   public:
-    Penguins();
+    Penguin();
     void peng_moving();
 };
 
