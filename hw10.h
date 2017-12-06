@@ -66,3 +66,5 @@ class Killer_Whale
     Killer_Whale();
     void killer_whale_moving();
 };
+
+#endif
