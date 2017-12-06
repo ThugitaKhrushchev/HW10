@@ -5,3 +5,8 @@
 #include<iostream>
 #include<cstdlib>
 using namespace std;
+
+Penguin::peng_moving()
+{
+
+}
